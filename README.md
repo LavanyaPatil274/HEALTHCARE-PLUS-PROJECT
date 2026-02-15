@@ -2,7 +2,7 @@
 
 A responsive healthcare awareness website built using HTML, Tailwind CSS, and JavaScript.
 
-🔗 Live Demo: https://yourusername.github.io/healthcare-plus/
+🔗 Live Demo: https://lavanyapatil274.github.io/HEALTHCARE-PLUS-PROJECT/
 
 ---
 
