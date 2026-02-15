@@ -22,13 +22,13 @@ The website is fully responsive and user-friendly.
 
 ## 🚀 Features
 
-✅ Multi-page navigation (Single Page Application style)  
-✅ Health Assessment Form  
-✅ Interactive Health Quiz  
-✅ Dark Mode Toggle  
-✅ Disease Information Modal  
-✅ Emergency Contact Section  
-✅ Mobile Responsive Design  
+1. Multi-page navigation (Single Page Application style)  
+2. Health Assessment Form  
+3. Interactive Health Quiz  
+4. Dark Mode Toggle  
+5. Disease Information Modal  
+6. Emergency Contact Section  
+7. Mobile Responsive Design  
 
 ---
 
@@ -43,16 +43,16 @@ The website is fully responsive and user-friendly.
 
 ## 📷 Screenshots
 
-### 🏠 Home Page
+###  Home Page
 ![Home](assets/screenshots/home.png)
 
-### 🦠 Disease Section
+###  Disease Section
 ![Diseases](assets/screenshots/disease.png)
 
-### 📋 Health Assessment Form
+###  Health Assessment Form
 ![Form](assets/screenshots/form.png)
 
-### 🚨 Emergency Section
+###  Emergency Section
 ![Emergency](assets/screenshots/emergency.png)
 
 ---
